@@ -5,7 +5,7 @@ export default function Home() {
     <section className="flex flex-col md:flex-row items-center justify-center gap-10 text-center md:text-left">
 
       {/* Profile Image */}
-      <div className="relative w-50 h-59">
+      <div className="relative w-52 h-52">
         <Image
           src="/celestin.png" 
           alt="Celestin Munyaneza"
