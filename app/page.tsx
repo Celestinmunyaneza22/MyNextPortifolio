@@ -7,7 +7,7 @@ export default function Home() {
       {/* Profile Image */}
       <div className="relative w-50 h-59">
         <Image
-          src="/Celestin.png"
+          src="/celestin.png" 
           alt="Celestin Munyaneza"
           fill
           className="rounded-full object-cover border-4 border-gray-300 dark:border-gray-700"
