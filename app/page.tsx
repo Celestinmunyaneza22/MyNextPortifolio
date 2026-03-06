@@ -9,7 +9,8 @@ export default function Home() {
         <Image
           src="/celestin.png" 
           alt="Celestin Munyaneza"
-          fill
+            width={220}
+            height={220}
           className="rounded-full object-cover border-4 border-gray-300 dark:border-gray-700"
         />
       </div>
