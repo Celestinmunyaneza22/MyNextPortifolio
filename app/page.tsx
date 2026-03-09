@@ -7,7 +7,7 @@ export default function Home() {
       {/* Profile Image */}
       <div className="relative w-52 h-52">
         <Image
-          src="/celestin.png" 
+          src="/celestin2.jpg" 
           alt="Celestin Munyaneza"
             width={220}
             height={220}
